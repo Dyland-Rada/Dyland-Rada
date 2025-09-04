@@ -1,4 +1,4 @@
-<h1 align="center">  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+
 Hi, Im Dyland Rada  
 </h1>
 <p align="center">
@@ -31,6 +31,4 @@ Hi, Im Dyland Rada
 <a href="https://instagram.com/syland_crb?igshid=YTQwZjQ0NmI0OA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/people/Dyland-Rada/pfbid0hsZMfhcVQ3PgdSRiF4t2ry9rFS1adVXfRgm3qXbMfS4zv1E27DC1FXnYmqqvwEuCl/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a><br><br>
 
-<p align="center">
-<a href="https://ibb.co/8KJrTGy"><img src="https://i.ibb.co/ngT7Z4X/photo.png" alt="photo" border="0"></a>
-</p>
+
